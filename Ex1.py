@@ -7,5 +7,5 @@ print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 
 print 'This is chijindu iwuchukwu'
-#Do you min if it takes 100 days to get
+#Do you mind if it takes 100 days to get
 
